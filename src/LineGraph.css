@@ -1,0 +1,8 @@
+.lineGraph {
+    margin-bottom: 20px;
+    
+}
+
+.lineGraph--active{
+    box-shadow: 10px 10px 8px 4px rgba(1, 70, 55, 0.5);
+}
